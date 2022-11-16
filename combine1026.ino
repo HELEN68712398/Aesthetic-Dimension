@@ -46,18 +46,6 @@ void setup() {
 void loop() {  
 
   ultraDis();
-  
-  
-//  stepper.move(-MOTOR_STEPS*MICROSTEPS);
-
-    
-  
-
-//  for (int i = 0; i < abs(comp); i++) {
-//    stepper.rotate(i);
-////    stepper2.rotate(i);
-// 
-//  }
 
 }
 
